@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{clearThis: 1b, CustomPotionEffects: [{ Id: 25b, Amplifier: 0b, Duration: 3, ShowParticles:0b }], CustomPotionColor:9762047}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

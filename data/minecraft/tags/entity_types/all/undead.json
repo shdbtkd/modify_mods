@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#minecraft:all/skeletons",
+    "#minecraft:all/zombies",
+    "minecraft:phantom",
+    "minecraft:wither"
+  ]
+}

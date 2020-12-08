@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:all/skeletons",
+    "minecraft:zombie",
+    "minecraft:zombie_villager",
+    "minecraft:drowned",
+    "minecraft:husk"
+  ]
+}

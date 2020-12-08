@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_shovel",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{clearThis: 1b}"
+            }, {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0,
+                "max": 0.76
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

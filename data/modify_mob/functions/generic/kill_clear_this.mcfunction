@@ -1,0 +1,1 @@
+kill @e[type= item, limit=1, sort= nearest, nbt= {Item: {tag: {clearThis: 1b}}}]
